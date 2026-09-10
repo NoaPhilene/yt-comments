@@ -1,0 +1,18 @@
+#new-comment {
+    display: flex;
+    width: 700px;
+    height: auto;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.error {
+    color: red;
+    font-weight: bold;
+}
+
+#comment-box {
+    border: 2px solid #000;
+    width: 600px;
+    height: auto;
+}
